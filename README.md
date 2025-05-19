@@ -1,4 +1,4 @@
-# Hardware store Management & Billing system
+# plywood stock checking & Billing system
 Hello Developers!
 This is Ramakant Plywood & Hardware Store Management System project built in Python Tkinter. The project has been built by taking reference from other Project. The Project has been developed as fourth semester project in SYBCA with a classmate[Harsh Chhatwani](https://github.com/Harsh450979).
 
